@@ -1,6 +1,6 @@
 # Persistent entropy
 
-![](https://github.com/Cimagroup/Auxiliary_functions/blob/master/Python/Functions/defPers.png "Persistent Entropy definition")
+![](https://github.com/Cimagroup/Auxiliary_functions/blob/master/Python/Functions/Persistent entropy/defPers.png "Persistent Entropy definition")
 
 
 
