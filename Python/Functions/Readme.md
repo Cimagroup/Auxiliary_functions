@@ -1,3 +1,3 @@
 # Persistent entropy
 
-$E(F) = p_ilog(p_i)$
+![](https://github.com/Cimagroup/Auxiliary_functions/blob/master/Python/Functions/defPers.png "Persistent Entropy definition")
